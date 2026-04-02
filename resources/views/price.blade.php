@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <h1>HUSTLERS UNIVERSITY</h1>
+    <h1>PRICE</h1>
+    <p>$500.99 MENESI</p>
 </body>
 </html>

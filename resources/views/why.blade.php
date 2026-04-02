@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HUSTLERS UNIVERSITY</h1>
+    <h1>kapec mest 500 eur menesi uz hustlers university?</h1>
+    <p>HUSTLERS UNIVERSITY GOATED THATS WHY</p>
 </body>
 </html>
